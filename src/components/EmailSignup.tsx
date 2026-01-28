@@ -82,7 +82,7 @@ const EmailSignup = () => {
               <Loader2 className="w-5 h-5 animate-spin" />
             ) : (
               <>
-                <span>Notify Me</span>
+                <span className="font-elegant">Notify Me</span>
                 <Send className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
               </>
             )}
