@@ -1,73 +1,56 @@
-# Welcome to your Lovable project
+# Chai Culture | Royal "Coming Soon" Landing Page
 
-## Project info
+> *"Brew the Royal Tradition"*
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+![Project Preview](path/to/screenshot.png)
+*(Note: Replace `path/to/screenshot.png` with a screenshot of your live page, or remove this line)*
 
-## How can I edit this code?
+## 📋 Project Overview
 
-There are several ways of editing your application.
+This project is a premium, mobile-responsive "Coming Soon" landing page developed for **Chai Culture**. The goal was to translate the brand's vision of heritage, authenticity, and royal tradition into a digital experience.
 
-**Use Lovable**
+The design focuses on warmth and elegance, utilizing a "Royal Brown & Gold" palette to reflect the premium nature of the instant chai premix.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+**🚀 Live Demo:** [Insert Your Vercel/Netlify/GitHub Pages Link Here]
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🎨 Design Choices & Brand Fit
 
-**Use your preferred IDE**
+*In response to the assignment requirements:*
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+To reflect Chai Culture's **"royal and authentic"** brand identity, I utilized a color palette of **Deep Coffee Brown** and **Metallic Gold**, evoking the richness of premium tea and heritage.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+I selected **Playfair Display** (serif) for headings to establish an editorial, high-end elegance, paired with **Lato** (sans-serif) for modern readability. The layout relies on a centered, symmetrical composition to mimic the stability and grace of traditional royal crests.
 
-Follow these steps:
+## 🛠️ Tech Stack
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+* **HTML5:** Semantic markup for accessibility and structure.
+* **CSS3:** Custom styling using CSS Variables, Flexbox, and Keyframe animations.
+* **Google Fonts:** `Playfair Display` & `Lato`.
+* **Font Awesome:** For social media integration.
+* **No Frameworks:** Built with pure vanilla CSS to demonstrate core competency and lightweight performance.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## ✨ Key Features
 
-# Step 3: Install the necessary dependencies.
-npm i
+* **Fully Responsive:** Fluid layout that adapts seamlessly from desktop to mobile devices.
+* **Brand-Centric UI:** Custom gradient backgrounds and gold-accented borders.
+* **Micro-interactions:** Smooth hover effects on buttons and inputs.
+* **Entrance Animations:** Subtle fade-in effects for a polished user experience.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+## 🚀 Getting Started
 
-**Edit a file directly in GitHub**
+To view this project locally on your machine:
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+1.  **Clone the repository**
+    ```bash
+    git clone [https://github.com/Daksh0027/royal-chai-experience.git](https://github.com/Daksh0027/royal-chai-experience.git)
+    ```
 
-**Use GitHub Codespaces**
+2.  **Navigate to the project directory**
+    ```bash
+    cd royal-chai-experience
+    ```
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+3.  **Open `index.html`**
+    Simply open the `index.html` file in your preferred web browser.
 
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+## 📂 Project Structure
