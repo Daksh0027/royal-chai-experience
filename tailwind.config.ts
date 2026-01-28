@@ -76,6 +76,7 @@ export default {
       fontFamily: {
         display: ['Playfair Display', 'serif'],
         elegant: ['Cormorant Garamond', 'serif'],
+        script: ['Tangerine', 'cursive'],
         body: ['system-ui', '-apple-system', 'sans-serif'],
       },
       borderRadius: {

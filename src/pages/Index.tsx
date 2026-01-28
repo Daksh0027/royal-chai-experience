@@ -31,14 +31,14 @@ const Index = () => {
             <LaunchBadge />
           </div>
 
-          {/* Logo */}
+          {/* Logo None Added Currently */}
           <div className="opacity-0 animate-fade-in-up animation-delay-200">
             <Logo size="lg" />
           </div>
 
           {/* Tagline */}
           <div className="opacity-0 animate-fade-in-up animation-delay-400">
-            <h2 className="font-elegant text-2xl md:text-3xl text-cream/90 italic tracking-wide">
+            <h2 className="font-display italic text-4xl my-5 text-cream/90">
               "Brew the Royal Tradition"
             </h2>
           </div>
@@ -46,12 +46,16 @@ const Index = () => {
           <RoyalDivider />
 
           {/* Brand Description */}
-          <div className="opacity-0 animate-fade-in-up animation-delay-400">
-            <p className="text-muted-foreground text-base md:text-lg leading-relaxed max-w-xl mx-auto font-body">
-              Experience the authentic essence of Indian chai, crafted from recipes 
-              passed down through generations of royal households. Our premium instant 
-              chai premix brings centuries of tradition to your cup — 
-              <span className="text-cream"> rich, aromatic, and truly regal.</span>
+          <div className="opacity-0 animate-fade-in-up animation-delay-400 space-y-4">
+            <p className="text-cream/80 text-lg md:text-xl leading-relaxed max-w-xl mx-auto font-elegant">
+              Where ancient recipes meet modern convenience.
+            </p>
+            <p className="text-muted-foreground text-base md:text-lg leading-relaxed max-w-lg mx-auto font-body">
+              Sourced from the finest estates, our premium chai premix captures the 
+              <span className="text-cream"> warmth of cardamom</span>, the 
+              <span className="text-cream"> depth of cinnamon</span>, and the 
+              <span className="text-cream"> soul of authentic masala chai</span> — 
+              all in a single, effortless cup.
             </p>
           </div>
 

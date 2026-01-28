@@ -1,5 +1,3 @@
-
-
 interface LogoProps {
   className?: string;
   size?: "sm" | "md" | "lg";
@@ -9,21 +7,15 @@ const Logo = ({ className = "", size = "md" }: LogoProps) => {
   const sizes = {
     sm: {
       container: "gap-2",
-      icon: 24,
-      text: "text-xl",
-      tagline: "text-xs",
+      text: "text-3xl",
     },
     md: {
       container: "gap-3",
-      icon: 32,
-      text: "text-2xl md:text-3xl",
-      tagline: "text-xs md:text-sm",
+      text: "text-4xl md:text-5xl",
     },
     lg: {
       container: "gap-4",
-      icon: 40,
-      text: "text-3xl md:text-4xl",
-      tagline: "text-sm",
+      text: "text-5xl md:text-6xl",
     },
   };
 
@@ -32,9 +24,14 @@ const Logo = ({ className = "", size = "md" }: LogoProps) => {
   return (
     <div className={`flex flex-col items-center ${className}`}>
       <div className={`flex items-center ${s.container}`}>
-        <h1 className={`font-display font-semibold tracking-wide ${s.text}`}>
-          <span className="text-gradient-gold">Chai</span>
-          <span className="text-cream ml-2">Culture</span>
+        <h1 
+          className={`font-display font-bold tracking-wider uppercase ${s.text}`}
+          style={{
+            textShadow: "0 0 40px rgba(212, 175, 55, 0.5), 0 0 80px rgba(212, 175, 55, 0.3)"
+          }}
+        >
+          <span className="text-cream/95 drop-shadow-lg">Chai</span>
+          <span className="text-cream/95 ml-3 drop-shadow-lg">Culture</span>
         </h1>
       </div>
     </div>
