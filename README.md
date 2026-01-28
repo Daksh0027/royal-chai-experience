@@ -1,17 +1,13 @@
 # Chai Culture | Royal "Coming Soon" Landing Page
 
 > *"Brew the Royal Tradition"*
-
-![Project Preview](path/to/screenshot.png)
-*(Note: Replace `path/to/screenshot.png` with a screenshot of your live page, or remove this line)*
-
 ## 📋 Project Overview
 
 This project is a premium, mobile-responsive "Coming Soon" landing page developed for **Chai Culture**. The goal was to translate the brand's vision of heritage, authenticity, and royal tradition into a digital experience.
 
 The design focuses on warmth and elegance, utilizing a "Royal Brown & Gold" palette to reflect the premium nature of the instant chai premix.
 
-**🚀 Live Demo:** [Insert Your Vercel/Netlify/GitHub Pages Link Here]
+**🚀 Live Demo:** https://chaicult.netlify.app/
 
 ## 🎨 Design Choices & Brand Fit
 
@@ -52,5 +48,3 @@ To view this project locally on your machine:
 
 3.  **Open `index.html`**
     Simply open the `index.html` file in your preferred web browser.
-
-## 📂 Project Structure
