@@ -3,7 +3,7 @@
 > *"Brew the Royal Tradition"*
 ## 📋 Project Overview
 
-This project is a premium, mobile-responsive "Coming Soon" landing page developed for **Chai Culture**. The goal was to translate the brand's vision of heritage, authenticity, and royal tradition into a digital experience.
+This project is a premium, mobile responsive "Coming Soon" landing page developed for **Chai Culture**. The goal was to translate the brand's vision of heritage, authenticity, and royal tradition into a digital experience.
 
 The design focuses on warmth and elegance, utilizing a "Royal Brown & Gold" palette to reflect the premium nature of the instant chai premix.
 
@@ -15,7 +15,7 @@ The design focuses on warmth and elegance, utilizing a "Royal Brown & Gold" pale
 
 To reflect Chai Culture's **"royal and authentic"** brand identity, I utilized a color palette of **Deep Coffee Brown** and **Metallic Gold**, evoking the richness of premium tea and heritage.
 
-I selected **Playfair Display** (serif) for headings to establish an editorial, high-end elegance, paired with **Lato** (sans-serif) for modern readability. The layout relies on a centered, symmetrical composition to mimic the stability and grace of traditional royal crests.
+I selected **Playfair Display** (serif) for headings to establish an editorial, high end elegance, paired with **Lato** (sans serif) for modern readability. The layout relies on a centered, symmetrical composition to mimic the stability and grace of traditional royal crests.
 
 ## 🛠️ Tech Stack
 
@@ -28,9 +28,9 @@ I selected **Playfair Display** (serif) for headings to establish an editorial, 
 ## ✨ Key Features
 
 * **Fully Responsive:** Fluid layout that adapts seamlessly from desktop to mobile devices.
-* **Brand-Centric UI:** Custom gradient backgrounds and gold-accented borders.
+* **Brand-Centric UI:** Custom gradient backgrounds and gold accented borders.
 * **Micro-interactions:** Smooth hover effects on buttons and inputs.
-* **Entrance Animations:** Subtle fade-in effects for a polished user experience.
+* **Entrance Animations:** Subtle fade in effects for a polished user experience.
 
 ## 🚀 Getting Started
 
